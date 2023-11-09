@@ -54,14 +54,14 @@ const Hero = () => {
                         <motion.button variants={textVariants}>My Projects</motion.button>
                         <motion.button variants={textVariants}>Contact Me</motion.button>
                     </motion.div>
-                    <motion.img variants={textVariants} animate="scrollButton" src="src/assets/scroll.png" alt=""></motion.img>
+                    <motion.img variants={textVariants} animate="scrollButton" src="https://i.ibb.co/CMQCHvY/scroll.png" alt=""></motion.img>
                 </motion.div>
             </div>
             <motion.div className="slidingTextContainer" variants={sliderVariants} initial="initial" animate="animate">
                 This is a really long and wasteful message so that I can waste as much of your time as possible because you will keep looking at this trying to read the entire message.
             </motion.div>
             <div className="imageContainer">
-                <img src="src/assets/hero.png" alt=""/>
+                <img src="https://pluspng.com/img-png/cactus-hd-png-cactus-png-image-771.png" alt=""/>
             </div> 
         </div>
     )
