@@ -17,6 +17,7 @@
             flex-direction: column;
             justify-content: center;
             gap: 40px;
+            margin-left: 40px;
 
             @include mobile {
                 height: 50%;

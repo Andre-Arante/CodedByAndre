@@ -9,10 +9,10 @@ const Navbar = () => {
             <div className="wrapper">
                 <span>Coded by Andre Arante</span>
                 <div className="social">
-                    <a href="#"><img src="../../../static/img/github.webp" alt="" /></a>
-                    <a href="#"><img src="../../../static/img/github.webp" alt="" /></a>
-                    <a href="#"><img src="../../../static/img/github.webp" alt="" /></a>
-                    <a href="#"><img src="../../../static/img/github.webp" alt="" /></a>
+                    <a href="#"><img src="src/assets/github.webp" alt="" /></a>
+                    <a href="#"><img src="src/assets/github.webp" alt="" /></a>
+                    <a href="#"><img src="src/assets/github.webp" alt="" /></a>
+                    <a href="#"><img src="src/assets/github.webp" alt="" /></a>
                 </div>
             </div>
         </div>

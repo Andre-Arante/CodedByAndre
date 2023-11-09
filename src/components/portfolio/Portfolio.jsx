@@ -6,28 +6,28 @@ const items = [
     {
         id: 1,
         title: "Conflicts",
-        img: "../../../static/img/conflicts-roadmap.png",
+        img: "src/assets/conflicts-roadmap.png",
         desc: "\"Conflicts\" is a sophisticated task manager and goal-setting web application that I developed for the 2022 Congressional App Challenge. It combines JavaScript React for the frontend and Django for the backend, allowing users to efficiently organize tasks and set long-term goals. The app offers two main tabs: \"Tasks\" for to-do lists and \"Roadmaps\" for goal tracking. ",
         link: "https://github.com/Andre-Arante/conflicts"
     },
     {
         id: 2,
         title: "Emergency Room Dashboard",
-        img: "../../../static/img/emergency_room_tracking.png",
+        img: "src/assets/emergency_room_tracking.png",
         desc: "I created a series of impactful Tableau dashboards, including a dynamic emergency room dashboard that tracked over 80,000 annual visits and facillitated efficient staffing of 50 physicians and 200 support staff. This dashboard, which highlighted busy times of day, allowed the department to maintain a targeted 4-hour length of stay, enhancing operational efficiency.",
         link: "https://public.tableau.com/app/profile/andre.arante/vizzes"
     },
     {
         id: 3,
         title: "Ice Cream Tracker",
-        img: "../../../static/img/ice-cream-tracker.png",
+        img: "src/assets/ice-cream-tracker.png",
         desc: "Frusturated by the constant breakdowns of the Thurston dining hall, my friends and I created a website that tracks the current status of the soft serve machine. Our site relys on user input to report the working status, and incentives users to report via a point and leaderboard system.",
         link: "https://github.com/Andre-Arante/Ice-Cream-Tracker"
     },
     {
         id: 4,
         title: "React Commerce",
-        img: "../../../static/img/expense-tracker.png",
+        img: "src/assets/expense-tracker.png",
         desc: "Build an expenses tracker that allows users to track how they are spending their money. Also implemented responsive design using Javascript React framework and Javascript logic that prevents the user from spending money that they don't have.",
         link: "https://github.com/Andre-Arante/pyrahacks22/tree/main/expense-tracker"
     }
