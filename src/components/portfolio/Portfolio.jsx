@@ -6,7 +6,7 @@ const items = [
     {
         id: 1,
         title: "Conflicts",
-        img: "src/conflicts-roadmap.png",
+        img: "https://i.ibb.co/djfkzB6/conflicts-roadmap.png",
         desc: "\"Conflicts\" is a sophisticated task manager and goal-setting web application that I developed for the 2022 Congressional App Challenge. It combines JavaScript React for the frontend and Django for the backend, allowing users to efficiently organize tasks and set long-term goals. The app offers two main tabs: \"Tasks\" for to-do lists and \"Roadmaps\" for goal tracking. ",
         link: "https://github.com/Andre-Arante/conflicts"
     },
